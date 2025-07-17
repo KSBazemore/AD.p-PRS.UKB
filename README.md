@@ -1,6 +1,6 @@
 **Supplement to AAIC Poster 105686:** Evaluation of variant-to-gene annotation strategies in Alzheimer’s Disease pathway-specific polygenic risk score construction 
 
-**Primary author:**  
+**First author:**  
 Katrina Bazemore, MPH  
 PhD Candidate | Naj lab  
 University of Pennsylvania  
